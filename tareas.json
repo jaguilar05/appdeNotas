@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "sustentacion",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "informefinal",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "app de tareas",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "informefinal",
+        "estado": "terminado"
+    }
+]
